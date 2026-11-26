@@ -156,8 +156,8 @@ void handleKey(char key) {
 
             if (failedAttempts >= MAX_FAILED_ATTEMPTS) {
                 /*
-                "tone()" funktionen gav mig "invalid header" error.
-                Efter flera felsökningförsök, så har jag inte lyckats ännu.
+                the "tone()" function gave me "invalid header" error.
+                I haven't succeed, even multiple debugging attempts.
                 */
                 // tone(buzzerPin, 1000, 3000);
                 
