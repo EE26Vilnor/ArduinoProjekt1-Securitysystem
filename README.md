@@ -1,2 +1,2 @@
 # ArduinoProjekt1-Securitysystem
-Ett‍‍‍ Arduino-projekt där jag utvecklade ett säkerhetssystem baserat på en PIN-kod som använder en knappsats för kodinmatning och en servomotor för att simulera ett elektroniskt lås. Systemet inkluderade också en LCD-skärm och sensorer för användarinteraktion och ‍‍‍säkerhet.
+An Arduino project in which I developed a PIN-based security system using a keypad for code entry and a servo motor to simulate an electronic lock. The system also included an LCD display and sensors for user interaction and security.
